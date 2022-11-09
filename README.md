@@ -18,4 +18,4 @@ Projeto feito durante o Ignite Lab da Rocketseat sobre desing system, implementa
 ![image](https://user-images.githubusercontent.com/80333527/195466779-6e587f90-ef81-44ec-9551-ce5190ee18f0.png)
 
 
-https://www.figma.com/file/r4kNFK9GeuBOwXeSVVN5Jf/ignite-lab-design-system?node-id=3%3A421
+
